@@ -1,0 +1,140 @@
+body {
+    background: #03071e;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 4px 2px 8px black;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-image: linear-gradient(#03071e,#89c2d9, #edc4b3)
+
+    
+   
+}
+h1, h2, h3, h4, p {
+    text-shadow: 12px 0 10px black;
+}
+#uni{
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+}    
+#pic {
+    width: 200px;
+    border-radius: 30px;
+    border: 6px solid #62b6cb;
+    margin-bottom: 10px;
+}
+
+#age {
+    background: #62b6cb;
+    padding: 6px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#date {
+    margin: 0;
+    background: #62b6cb;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.gift {
+    margin-top: 50px;
+}
+
+.happytitle {
+    margin-bottom: 10px;
+}
+
+.gifthint {
+    margin-top: 0;
+}
+
+.happy {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("Images/giftcover.jpg");
+    background-size: cover;
+}
+.happy:hover {
+    background-image: url("Images/happy.webp");
+}
+.reacttitle{
+    margin-bottom: 10px; 
+}
+.react{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("Images/giftcover.jpg");
+    background-size: cover;
+}
+.react:hover{
+     background-image: url("Images/react.webp");
+}
+.destitle{
+    margin-bottom: 10px;
+}
+.describe{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("Images/giftcover.jpg");
+    background-size: cover;
+}
+.describe:hover{
+     background-image: url("Images/describe.webp");
+}
+.badtitle{
+    margin-bottom: 10px;
+}
+.badass{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("Images/giftcover.jpg");
+    background-size: cover;
+}
+.badass:hover{
+    background-image: url("Images/dream.webp");
+}
+.cheertitle{
+    margin: 100px 0px 10px 0px;
+}
+.cheer {
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("Images/giftcover.jpg");
+    background-size: cover;
+}
+.cheer:hover{
+    background-image: url("Images/HBD.webp");
+    background-size: 400px 200px;
+}
+.site{
+    margin: 50px auto 20px;
+    font-style: italic;
+    width: 400px;
+}
+.whitelink{
+    color: white;
+    text-decoration: underline 
+}
+.whitelink:hover{
+    color: lightgray;
+}
+    
